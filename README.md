@@ -12,7 +12,7 @@ Atualmente, estou cursando Engenharia de Controle e Automação na UFLA (Univers
 - ⚡ Curiosidade: Já fui jogador profissional de League of Legends!
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/DennerCaleare/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DennerCaleare/DennerCaleare/blob/output/github-contribution-grid-snake.svg)
 
 ## Estou aprendendo cada dia mais sobre
 
