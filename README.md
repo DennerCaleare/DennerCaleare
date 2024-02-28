@@ -7,12 +7,7 @@ Atualmente, estou cursando Engenharia de Controle e Automação na UFLA (Univers
 - 🌱 Estou aprendendo novas habilidades e tecnologias para aprimorar meus conhecimentos.
 - 👯 Estou aberto a colaborar em projetos interessantes relacionados a Arduino, sensores e IA.
 - 🤔 Estou buscando ajuda para aprofundar meu entendimento em conceitos e aplicações de IA.
-- 💬 Fique à vontade para me perguntar sobre qualquer coisa relacionada a tecnologia, engenharia ou até dicas de acampamento!
-- 📫 Você pode entrar em contato comigo pelo e-mail [seu-email@example.com](mailto:seu-email@example.com).
-- ⚡ Curiosidade: Já fui jogador profissional de League of Legends!
-
-
-![Snake animation](https://github.com/DennerCaleare/DennerCaleare/blob/output/github-contribution-grid-snake.svg)
+- 💬 Fique à vontade para me perguntar sobre qualquer coisa relacionada a tecnologia, engenharia ou outros assuntos em geral!
 
 ## Estou aprendendo cada dia mais sobre
 
@@ -21,7 +16,6 @@ Atualmente, estou cursando Engenharia de Controle e Automação na UFLA (Univers
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-
 
 <div>
 <a href="https://github.com/DennerCaleare">
