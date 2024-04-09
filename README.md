@@ -23,6 +23,15 @@ Atualmente, estou cursando Engenharia de Controle e Automação na UFLA (Univers
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DennerCaleare&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DennerCaleare/DennerCaleare/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DennerCaleare/DennerCaleare/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DennerCaleare/DennerCaleare/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+
+
 Tenho paixão por aplicar tecnologia para resolver problemas do mundo real, especialmente na área de inteligência artificial. Vamos conectar e explorar juntos o emocionante mundo da tecnologia!
 ## Contatos
 
