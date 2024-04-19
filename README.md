@@ -1,5 +1,5 @@
 # 👋 Olá! Bem-vindo ao meu perfil no Github.
-## Meu nome é Denner, mas pode me chamar de "oxy"!
+## Meu nome é Denner!
 
 Atualmente, estou cursando Engenharia de Controle e Automação na UFLA (Universidade Federal de Lavras). Aqui vai um pouco mais sobre mim:
 
