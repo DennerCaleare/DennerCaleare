@@ -47,12 +47,10 @@ Transformo dados em **insights** e **soluções inteligentes** para o mundo real
 ---
 
 ## 📊 Estatísticas
-<div align="center">
+<div>
 <a href="https://github.com/DennerCaleare">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennerCaleare&layout=compact&langs_count=7&theme=radical"/>
-</a>
-<a href="https://github.com/DennerCaleare">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DennerCaleare&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DennerCaleare&show_icons=true&theme=radical&include_all_commits=true"/>
 </a>
 </div>
 
