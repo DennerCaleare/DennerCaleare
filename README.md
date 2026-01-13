@@ -25,18 +25,18 @@ Sou **Denner Gabriel Ramos Caleare**, estudante de **Engenharia de Controle e Au
 
 ### 📊 Dashboards Governamentais
 
-| Projeto | Stack | Impacto |
-|---------|-------|----------|
-| **[MDA Precificação](https://github.com/DennerCaleare/mda-dashboard-precificacao)** | Streamlit, GeoPandas, Folium, Plotly | Protótipo adotado como padrão federal |
-| **[MGI Car-SIGEF](https://github.com/DennerCaleare/dashboard-similaridade-car-sigef)** | Streamlit, DuckDB, 1.3M registros | Base para deploy federal com performance otimizada |
-| **[SIOUT-RS](https://github.com/DennerCaleare/streamlit-siout)** | Streamlit, Folium, Mapas | Substituiu 10k+ registros em planilhas Excel |
+| Projeto | Stack | Impacto | Demo |
+|---------|-------|----------|------|
+| **[MDA Precificação](https://github.com/DennerCaleare/mda-dashboard-precificacao)** | Streamlit, GeoPandas, Folium, Plotly | Protótipo adotado como padrão federal | [🚀 Demo](https://mda-dashboard-precificacao.streamlit.app/) |
+| **[MGI Car-SIGEF](https://github.com/DennerCaleare/dashboard-similaridade-car-sigef)** | Streamlit, DuckDB, 1.3M registros | Base para deploy federal com performance otimizada | N/A |
+| **[SIOUT-RS](https://github.com/DennerCaleare/streamlit-siout)** | Streamlit, Folium, Mapas | Substituiu 10k+ registros em planilhas Excel | [🚀 Demo](https://sioutrs.streamlit.app/) |
 
 ### 🌱 Pesquisa & Aprendizado
 
-| Projeto | Descrição | Tech |
-|---------|------------|------|
+| Projeto | Descrição | Tech | Demo |
+|---------|------------|------|------|
 | **[Desmatamento Pará](https://github.com/DennerCaleare/zetta-desmatamento-para)** | Análise de desmatamento vs indicadores socioeconômicos | Python, GeoPandas, Jupyter |
-| **[Dashboard CAR-SIGEF](https://github.com/DennerCaleare/dashboard-similaridade-car-sigef)** | 17+ visualizações de conformidade fundiária | Streamlit, Statsmodels, DuckDB |
+ [🚀 Demo](https://zetta-desmatamento-para.streamlit.app/) || **[Dashboard CAR-SIGEF](https://github.com/DennerCaleare/dashboard-similaridade-car-sigef)** | 17+ visualizações de conformidade fundiária | Streamlit, Statsmodels, DuckDB | N/A |
 
 ---
 
