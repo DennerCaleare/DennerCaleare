@@ -12,42 +12,105 @@
 
 Sou **Denner Gabriel Ramos Caleare**, estudante de **Engenharia de Controle e Automação** focado em **Ciência de Dados** e **IA** pela **UFLA**.
 
-**O que faço:** Desenvolvo dashboards interativos, análises de dados e soluções inteligentes que resolvem problemas reais para governo.
+**O que faço:** Desenvolvo dashboards interativos, análises de dados e soluções inteligentes que resolvem problemas reais para governo, agências e organizações.
 
-**Experiência:** Trabalhando na **Agência Zetta** desenvolvendo soluções para governo federal em dados geoespaciais e conformidade fundiária.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
-
----
-
-## 🚀 Tech Stack
-
-🐍 **Python** | 📊 **Streamlit** | 🗺️ **GeoPandas** | 📈 **SQL** | 🎨 **Plotly** | ⚡ **DuckDB**
+**Experiência:** Trabalhando na **Agência Zetta** e desenvolvendo soluções para:
+- 🗺️ **Ministério do Desenvolvimento Agrário (MDA)** - Precificação de áreas de georreferenciamento
+- 📚 **Ministério da Gestão e Inovação (MGI)** - Conformidade fundiária CAR vs SIGEF
+- 🜊 **SIOUT-RS** - Dashboard de comparação de registros (que substituiu planilhas complexas)
 
 ---
 
-## 🎯 O que Busco
+## 🚀 Projetos em Destaque
 
-- 👤 Oportunidades em **Data Science** (Junior/Mid-level)
-- 💼 Parcerias em projetos **Govtech**
-- 🌟 Desafios complexos de **dados e visualização**
+### 📊 Dashboards Governamentais
+
+| Projeto | Stack | Impacto |
+|---------|-------|----------|
+| **[MDA Precificação](https://github.com/DennerCaleare/mda-dashboard-precificacao)** | Streamlit, GeoPandas, Folium, Plotly | Protótipo adotado como padrão federal |
+| **[MGI Car-SIGEF](https://github.com/DennerCaleare/dashboard-similaridade-car-sigef)** | Streamlit, DuckDB, 1.3M registros | Base para deploy federal com performance otimizada |
+| **[SIOUT-RS](https://github.com/DennerCaleare/streamlit-siout)** | Streamlit, Folium, Mapas | Substituiu 10k+ registros em planilhas Excel |
+
+### 🌱 Pesquisa & Aprendizado
+
+| Projeto | Descrição | Tech |
+|---------|------------|------|
+| **[Desmatamento Pará](https://github.com/DennerCaleare/zetta-desmatamento-para)** | Análise de desmatamento vs indicadores socioeconômicos | Python, GeoPandas, Jupyter |
+| **[Dashboard CAR-SIGEF](https://github.com/DennerCaleare/dashboard-similaridade-car-sigef)** | 17+ visualizações de conformidade fundiária | Streamlit, Statsmodels, DuckDB |
 
 ---
 
-## 📋 Contato
+## 📊 Habilidades Técnicas
 
-💌 **Email:** [contato.denner.pf17@gmail.com](mailto:contato.denner.pf17@gmail.com)
+### 📊 Data Science & Analytics
+- **Linguagens:** Python, SQL, R
+- **Libs:** Pandas, NumPy, Scikit-learn, GeoPandas
+- **Visualização:** Plotly, Matplotlib, Seaborn, Folium
+- **Machine Learning:** Scikit-learn, XGBoost
 
-🔗 **LinkedIn:** [@dennercaleare](https://linkedin.com/in/dennercaleare)
+### 📱 Web Development & Dashboards
+- **Frontend:** HTML, CSS, JavaScript
+- **Dashboards:** Streamlit, Power BI
+- **Bancos de Dados:** SQL, DuckDB (performance otimizada)
+- **APIs:** REST, integrações de dados
 
-### 💫 *Ciência de Dados é transformar informação em ação. Vamos juntos!*
+### 🛠️ Outros
+- **Engenharia:** C, C++, Arduino, microcontroladores
+- **DevOps:** Git, GitHub, deploy em nuvem (Streamlit Cloud)
+- **Geoespacial:** GeoPandas, Shapely, QGIS
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DennerCaleare/DennerCaleare/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DennerCaleare/DennerCaleare/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DennerCaleare/DennerCaleare/output/github-contribution-grid-snake.svg">
-</picture>
+## 🎆 Destaque de Impacto
+
+✅ **Prototipagem Federal** - Meu dashboard para MDA virou padrão adotado pelos devs do governo
+
+✅ **Performance em Escala** - Solução para MGI processa 1.3M registros em <2s com DuckDB
+
+✅ **Substituiu Planilhas** - SIOUT-RS transformou 10k+ registros em Excel em plataforma interativa
+
+✅ **Govtech** - Desenvolvendo soluções reais para governo federal
+
+---
+
+## 🎓 Educação
+
+- **Engenharia de Controle e Automação** - UFLA (em andamento)
+- **Foco:** Ciência de Dados, IA, Engenharia de Software
+- **Aprendizado Prático:** Desenvolvendo soluções desde dia 1
+
+---
+
+## 📚 O Que Eu Faço
+
+```python
+while True:
+    data = collect_insights()           # Coletar dados e insights
+    visualize(data)                     # Criar visualizações inteligentes
+    deploy(solution)                    # Deploy em produção
+    impact = measure_business_value()   # Medir impacto real
+    learn(feedback)                     # Aprender com feedback
+```
+
+---
+
+## 📋 Procurando...
+
+- 👤 **Oportunidades em Data Science** (Junior/Mid-level)
+- 💼 **Parceria em projetos Govtech**
+- 🌟 **Desafios complexos de dados**
+
+---
+
+## 📋 Contato & Links
+
+- **Email:** contato.denner.pf17@gmail.com
+- **LinkedIn:** [@dennercaleare](https://linkedin.com/in/dennercaleare)
+- **GitHub:** [@DennerCaleare](https://github.com/DennerCaleare)
+- **Org:** [@datasciencezetta](https://github.com/datasciencezetta)
+
+---
+
+### 💫 Ciência de Dados é transformar informação em ação. Vamos juntos explorar o poder dos dados!
+
+<img src="https://komarev.com/ghpvc/?username=DennerCaleare&color=blue&style=flat-square&label=profile+views" alt="Profile views" />
