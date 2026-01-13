@@ -26,7 +26,7 @@ Sou **Denner Gabriel Ramos Caleare**, estudante de **Engenharia de Controle e Au
 
 ---
 
-## 🎯 O que Procuro
+## 🎯 O que Busco
 
 - 👤 Oportunidades em **Data Science** (Junior/Mid-level)
 - 💼 Parcerias em projetos **Govtech**
